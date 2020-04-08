@@ -1,0 +1,23 @@
+<orders>
+    <order name="order_1">
+        <bananas>0</bananas>
+        <apples>5</apples>
+        <strawberries>1 </strawberries>
+        <price>10.00</price> 
+        <tax>1.00</tax>
+    </order>
+    <order name="order_2">
+        <bananas>7</bananas>
+        <apples>2</apples>
+        <strawberries>3</strawberries>
+        <price>20.00</price> 
+        <tax>2.00</tax>
+    </order>
+    <order name="order_3">
+        <bananas>3</bananas>
+        <apples>6</apples>
+        <strawberries>13</strawberries>
+        <price>30.00</price> 
+        <tax>3.00</tax>
+    </order>
+</orders>
